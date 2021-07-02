@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48123" started-at="2021-07-02T17:50:21 IST" finished-at="2021-07-02T17:51:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48123" started-at="2021-07-02T17:50:21 IST" finished-at="2021-07-02T17:51:09 IST">
+      <class name="Selenium4Version.Selenium_4_Version.NewTab_NewBrowser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Selenium4Version.Selenium_4_Version.NewTab_NewBrowser@5bcea91b]" name="setUp" is-config="true" duration-ms="21368" started-at="2021-07-02T17:50:21 IST" finished-at="2021-07-02T17:50:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openNewTab()[pri:0, instance:Selenium4Version.Selenium_4_Version.NewTab_NewBrowser@5bcea91b]" name="openNewTab" duration-ms="12123" started-at="2021-07-02T17:50:42 IST" description="Opening new Tab" finished-at="2021-07-02T17:50:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium4Version.Selenium_4_Version.NewTab_NewBrowser@5bcea91b]" name="tearDown" is-config="true" duration-ms="985" started-at="2021-07-02T17:50:54 IST" finished-at="2021-07-02T17:50:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Selenium4Version.Selenium_4_Version.NewTab_NewBrowser@5bcea91b]" name="setUp" is-config="true" duration-ms="2982" started-at="2021-07-02T17:50:55 IST" finished-at="2021-07-02T17:50:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openNewWindow()[pri:0, instance:Selenium4Version.Selenium_4_Version.NewTab_NewBrowser@5bcea91b]" name="openNewWindow" duration-ms="9244" started-at="2021-07-02T17:50:58 IST" description="Opening new Window" finished-at="2021-07-02T17:51:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewWindow -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium4Version.Selenium_4_Version.NewTab_NewBrowser@5bcea91b]" name="tearDown" is-config="true" duration-ms="1324" started-at="2021-07-02T17:51:07 IST" finished-at="2021-07-02T17:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium4Version.Selenium_4_Version.NewTab_NewBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
